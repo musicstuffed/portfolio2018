@@ -1,0 +1,93 @@
+/* CSS Document */
+section {
+	padding: 2%;	
+}
+section a {
+	text-decoration: none !important;
+	color: #212529;
+}
+section a:hover {
+	color: #212529;
+}
+.high {
+	background-color:#ff5e00;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	
+}
+.high2 {
+	background-color: chartreuse;
+}
+header {
+	margin-top: 10px;
+} 
+footer {
+	
+	margin: 10px;
+	background-color: limegreen;
+/*	height: 300px;*/
+}
+nav {
+	background-color: limegreen;
+}
+form {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+a {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 1%;
+}
+/*
+h1 {
+	font-size: 100%vh;
+	
+}
+*/
+h2 {
+	font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', 'sans-serif';
+	color:#231f20;
+}
+h3 {
+	text-align: center;
+	font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', 'sans-serif';
+	
+}
+h4 {
+	text-align: center;
+}
+p {
+	justify-content: center;
+}
+.heading {
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: -10px;
+	padding: 1%;
+	font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', 'sans-serif';
+	
+}
+.heading2 {
+	font-size: 1.2em;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	padding: 1%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+img {
+	margin:auto;
+	padding: 1%;
+}
+a h3 {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+
+
+p {
+	font-family: "Sans serif";
+	padding-left: 1%;
+	padding-right: 1%;
+}
